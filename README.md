@@ -8,6 +8,6 @@ Here are the full solutions of problems on CSES Problem Set ([Link website](http
 * [Graph Algorithms](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Graph%20Algorithms) (All problems have been solved)
 * [Range Queries](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Range%20Queries) (All problems except problem Range Queries and Copies have been solved)
 * [Tree Algorithms](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Tree%20Algorithms) (All problems have been solved)
-* [Mathematics](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Mathematics) (Updating)
+* [Mathematics](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Mathematics) (All problems have been solved)
 * [String Algorithms]
 * [Additional Problems]
