@@ -9,7 +9,7 @@ Here are the full solutions of problems on [CSES Problem Set](https://cses.fi/pr
 * [Range Queries](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Range%20Queries) (All **25/25** problems except problem Range Queries and Copies have been solved)
 * [Tree Algorithms](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Tree%20Algorithms) (All **16/16** problems have been solved)
 * [Mathematics](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/Mathematics) (All **37/37** problems have been solved)
-* [String Algorithms](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/String%20Algorithms) (All problems have been solved)
+* [String Algorithms](https://github.com/truongcongthanh2000/CSES-Solutions/tree/master/String%20Algorithms) (All **21/21** problems have been solved)
 * [Additional Problems]() (Updating)
 
 *Note: To quickly find the solution to a problem, you can search by title. The file format is always ```<title>.cpp```*
